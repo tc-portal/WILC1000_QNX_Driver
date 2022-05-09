@@ -2,7 +2,7 @@
 	"metaDataVersion": "1.0.0",
 	"category": "com.microchip.ide.project",
 	"content": {
-		"metaDataVersion": "1.0.0",
+		"metaDataVersion": "1.3.0",
 		"name": "com.microchip.module.driver.project.WILC1000_QNX_Driver",
 		"version": "2.0.0",
 		"displayName": "WILC1000 QNX Driver",
@@ -14,7 +14,7 @@
 		},
 		"compiler": [
 			{
-				"name": "XC8",
+				"name": "qcc",
 				"semverRange": ">=7.0.3"
 			}
 		],
