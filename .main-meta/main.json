@@ -18,6 +18,10 @@
 				"semverRange": ">=7.0.3"
 			}
 		],
+		"dfp": {
+            		"name": "PIC18F-Q_DFP",
+            		"semverRange": "^1.5.124"
+        	},
 		"device": {
 			"metaDataVersion": "1.0.0",
 			"category": "com.microchip.portal.contentRef",
