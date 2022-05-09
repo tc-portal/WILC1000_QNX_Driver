@@ -14,7 +14,7 @@
 		},
 		"compiler": [
 			{
-				"name": "qcc",
+				"name": "XC8",
 				"semverRange": ">=7.0.3"
 			}
 		],
