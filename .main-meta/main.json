@@ -1,10 +1,10 @@
 {
 	"metaDataVersion": "1.0.0",
-	"category": "com.microchip.module.driver",
+	"category": "com.microchip.ide.project",
 	"content": {
 		"metaDataVersion": "1.0.0",
 		"name": "com.microchip.module.driver.project.WILC1000_QNX_Driver",
-		"version": "1.0.0",
+		"version": "2.0.0",
 		"displayName": "WILC1000 QNX Driver",
 		"projectName": "WILC1000_QNX_Driver",
 		"shortDescription": "This is the WILC1000 QNX Driver source code",
